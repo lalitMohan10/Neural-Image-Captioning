@@ -1,4 +1,4 @@
-# Automatic-Image-Caption-Generation
+# Neural Image Captioning System
 
 Caption generation is a challenging artificial intelligence problem where a textual description must be generated for a given photograph.
 
